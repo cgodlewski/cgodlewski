@@ -3,7 +3,7 @@
 
 👀 I’m interested in finance
 
-🌐 https://profcjgodlewski.wordpress.com/
+🌐 https://cgodlewski.github.io/
 
 <!---
 cgodlewski/cgodlewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
